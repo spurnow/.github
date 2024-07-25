@@ -1,4 +1,4 @@
-## Welcome to the world of Automation 👋
+## Welcome to the world of Instagram & Whatsapp Automation 👋
 
 Hi, we're Spur, a lean company building on top of the WhatsApp API & Instagram API.
 
