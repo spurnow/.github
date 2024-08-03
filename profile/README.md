@@ -1,6 +1,6 @@
 ## Welcome to the world of Instagram & Whatsapp Automation 👋
 
-Hi, we're Spur, a lean company building on top of the WhatsApp API & Instagram API.
+Hi, we're Spur, a lean company building on top of the WhatsApp API & Instagram Comment plus DM API.
 
 Brands mainly use Spur for [lead generation](https://www.spurnow.com/blogs/whatsapp-lead-generation), [retention marketing](https://www.spurnow.com/blogs/retention-marketing-with-whatsapp) and much more.
 
